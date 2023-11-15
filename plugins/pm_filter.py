@@ -1574,7 +1574,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "shortlink_info":
             btn = [[
                     InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="http://t.me/Culprit_003")
+                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="http://t.me/Daemon990")
                   ]]
             await client.edit_message_media(
                 query.message.chat.id, 
@@ -1590,7 +1590,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "tele":
             btn = [[
                     InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="help"),
-                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="http://t.me/Culprit_003")
+                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="http://t.me/Daemon990")
                   ]]
             await client.edit_message_media(
                 query.message.chat.id, 
@@ -1631,7 +1631,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "share":
             btn = [[
                     InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="help"),
-                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/creatorrio")
+                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/Teluguzone0")
                   ]]
             await client.edit_message_media(
                 query.message.chat.id, 
@@ -1647,7 +1647,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "song":
             btn = [[
                     InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="help"),
-                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/creatorrio")
+                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/Teluguzone0")
                   ]]
             await client.edit_message_media(
                 query.message.chat.id, 
@@ -1688,7 +1688,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "sticker":
             btn = [[
                     InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="help"),
-                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="http://t.me/Culprit_003")
+                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="http://t.me/Daemon990")
                   ]]
             await client.edit_message_media(
                 query.message.chat.id, 
