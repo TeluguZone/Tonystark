@@ -245,9 +245,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
-
-<b> Size ⚙️: {file_size}</b>""" 
+    CAPTION = """<b>{filename}\n\nJoin : [TeluguZone](https://t.me/Teluguzone0)\nBackup Channel : [TeluguZoneOFC](https://t.me/Teluguzoneofc)\nSize :- {file_size} GB\nJoin [TeluguZone](https://t.me/TeluguZone0)</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
