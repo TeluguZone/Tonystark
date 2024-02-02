@@ -131,7 +131,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ★ Tᴏᴛᴀʟ Cʜᴀᴛs: <code>{}</code>
 ★ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
 ★ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
-★ 𝙈𝙖𝙞𝙣𝙩𝙖𝙞𝙣𝙚𝙙 𝘽𝙮:@TeluguZone0 </b>"""
+★ 𝙈𝙖𝙞𝙣𝙩𝙖𝙞𝙣𝙚𝙙 𝘽𝙮:@TeluguZoneOFC </b>"""
 
     LOG_TEXT_G = """#NewGroup
 Gʀᴏᴜᴘ = {}(<code>{}</code>)
@@ -249,7 +249,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 <b> Size ⚙️: {file_size}
 
-JOIN:[TeluguZone](https://t.me/TeluguZone0)</b>""" 
+JOIN:[TeluguZone](https://t.me/TeluguZoneOFC)</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
